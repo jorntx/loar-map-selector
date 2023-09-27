@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Rapid TypeScript/React prototype (that was never completed) of an app to select a map area and then download the corresponding Minecraft map from LOAR   - THROWAWAY repo.
+
 ## Available Scripts
 
 In the project directory, you can run:
